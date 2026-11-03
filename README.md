@@ -25,7 +25,7 @@ int main()
           printf("PT vo nghiem");
       }else{
           if(delta==0){
-            x=-b/2*a;
+            x=-b/(2*a);
             printf("%.2f",x);
           }
           else{
